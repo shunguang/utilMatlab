@@ -1,0 +1,68 @@
+# some word and ppt files
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.pdf
+log*.txt
+
+# java stuff to ignore
+*.class
+
+
+# Prerequisites
+*.d
+*.user
+*.tlog
+*.obj
+*.log
+*.asv
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Other files 
+*.bin
+*.DS_Store
+*.avi
+*.jpg
+*.gif
+*.GIF
+*.bak
+
+#--------------------------
+#folders to ignore
+#--------------------------
+data-sets/
+.vs/
+
+
+
+
